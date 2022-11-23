@@ -25,6 +25,14 @@ body{
     
 }
 
+.biografia {
+    text-align: justify;
+}
+
+.intro-sobre {
+    text-align: justify;
+}
+
 * {
     scrollbar-width: thin;
     scrollbar-color: #e228d8 #070d12;
@@ -75,6 +83,7 @@ body{
 .cartao .abas .aba.selecionado{
     background-color: #262626;
 }
+
 
 .cartao .informacoes-abas{
     background-color: #262626;
